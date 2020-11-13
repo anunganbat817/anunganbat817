@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! 👋
 
 <!--
 **anunganbat817/anunganbat817** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +20,9 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ... <b>Natural Language Processing</b>
 - 👯 I’m looking to collaborate on ... <b>Python projects & data science (kaggle)</b>
 - 💬 Ask me about <b>anything</b>
-- 💡 Fun fact ... <b>i 💙 playing chess</b>
+- 💡 Fun fact ... <b>I 💙 playing chess</b>
+- 🔮 Favorite quote ... <b> How you do anything is how you do everything </b>
+
 
 ## 📫 How to reach me
 - [Email](mailto:anunganbat817@gmail.com)
